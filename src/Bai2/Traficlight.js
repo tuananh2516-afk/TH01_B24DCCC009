@@ -61,6 +61,7 @@ function TrafficLight() {
 
       <button onClick={changeLight} style={{ marginTop: 10 }}>
         Chuyển đèn
+        fff
       </button>
     </div>
   );
